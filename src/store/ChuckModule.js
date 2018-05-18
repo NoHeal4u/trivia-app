@@ -15,7 +15,7 @@ export const ChuckModule = {
 			state.randomJoke = joke;
 		},
 		setJokeCategory(state, jokeCategory){
-			console.log('ssss', jokeCategory)
+			// console.log('ssss', jokeCategory)
 			state.jokeCategory = jokeCategory;
 		}
 	},
